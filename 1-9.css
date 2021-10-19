@@ -35,14 +35,20 @@
   height: 150px;
   margin: 10px 10px 0px;
 }
-.m-box:first-child{
+.m1{
   background-image: url(img/flow01.png);
+  background-size: cover;
+  background-position: bottom;
 }
-.m-box:nth-child(2){
+.m2{
   background-image: url(img/flow02.png);
+  background-size: cover;
+  background-position: bottom;
 }
-.m-box:last-child{
+.m3{
   background-image: url(img/flow03.png);
+  background-size: cover;
+  background-position: bottom;
 }
 .mar{
   margin: 10px 10px 0px 10px;
